@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral?style=flat-square&color=blue" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral?style=flat-square&color=blue" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Ergonomic-Keyboard-Peripheral?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,9 +62,9 @@ The global ergonomic keyboard and specialized computer peripherals market is est
 
 ## 🔓 Open-Source Firmware & Hardware Projects
 
-> *Repositories sorted by GitHub Star Count in descending order. Click star badges to visit stargazers.*
+> *Repositories sorted by GitHub Stars_Count in descending order. Click Stars_Badges to visit stargazers.*
 
-| Star Count Badge | Open-Source Project & Link | Description & Architectural Highlights |
+| Stars_Count Badge | Open-Source Project & Link | Description & Architectural Highlights |
 | :---: | :--- | :--- |
 | [![Stars](https://img.shields.io/github/stars/qmk/qmk_firmware?style=social&color=white)](https://github.com/qmk/qmk_firmware/stargazers) | **[QMK Firmware](https://github.com/qmk/qmk_firmware)** | **The industry-standard open-source keyboard firmware.** Powers thousands of custom mechanical and ergonomic split keyboards with deep C matrix scanning, tap-dance, layers, and leader keys. |
 | [![Stars](https://img.shields.io/github/stars/foostan/crkbd?style=social&color=white)](https://github.com/foostan/crkbd/stargazers) | **[Corne Keyboard (crkbd)](https://github.com/foostan/crkbd)** | **Extremely popular split 3x6 columnar stagger keyboard.** Features OLED screen support, per-key RGB backlighting, low-profile Choc switch support, and compact portable form factor. |
